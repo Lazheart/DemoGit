@@ -1,7 +1,7 @@
 
-USANDO GIT POR PRIMERA VEZ UWU
+#USANDO GIT POR PRIMERA VEZ UWU
 
-Como pongo mi titulo en negro?
+"Como" pongo mi titulo en negro?
 
 
 Bueno al final hize lo siguiente
