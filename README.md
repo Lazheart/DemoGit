@@ -1,6 +1,6 @@
 
-##Esta es mi nueva version de git
-:
+##Esta es mi nueva version de git:
+
 "Como" pongo mi titulo en negro?
 
 
